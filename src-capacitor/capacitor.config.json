@@ -1,0 +1,9 @@
+{
+  "appId": "trashnavicator.capacitor",
+  "appName": "trashnavigator",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://192.168.1.41:9500"
+  }
+}
