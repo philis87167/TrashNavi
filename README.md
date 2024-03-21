@@ -1,6 +1,6 @@
 # trashnavigator (trashnavigator)
 
-A Quasar Project
+Berliner Hochschule für Technik / Wi2324 / Modul: Navigation 
 
 ## dependencies installieren
 ```bash
