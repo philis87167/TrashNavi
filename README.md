@@ -2,16 +2,18 @@
 
 Berliner Hochschule für Technik / Wi2324 / Modul: Navigation 
 
-Es wurde eine App erstellt, mit der man sich von seinem Standort aus, zu einer anderen Location navigieren lassen kann. Hierbei kann man zwischen verschiedenen Fortbewegungsmitteln wählen.
+Es wurde eine App erstellt, mit der man sich von seinem Standort aus, zu einer anderen Location navigieren lassen kann.
+Die Benutzeroberfläche zeigt zudem Mülleimer in Berlin an, die bei Bedarf als Ziel oder als Zwischenziel angewählt werden können.
+Hierbei kann zwischen verschiedenen Fortbewegungsmitteln gewählt werden.
 
-## dependencies installieren
+## Install dependencies
 ```bash
 yarn
 # or
 npm install
 ```
 
-### App im development mode starten (hot-code reloading, error reporting, etc.) 
+### Start app in development mode (hot-code reloading, error reporting, etc.) 
 ```bash
 quasar dev
 ```
