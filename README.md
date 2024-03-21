@@ -2,14 +2,14 @@
 
 A Quasar Project
 
-## Install the dependencies
+## dependencies installieren
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### App im development mode starten (hot-code reloading, error reporting, etc.) 
 ```bash
 quasar dev
 ```
